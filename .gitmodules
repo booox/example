@@ -1,3 +1,6 @@
 [submodule "flask"]
 	path = flask
 	url = https://github.com/booox/nginx-gunicorn-flask.git
+[submodule "spider"]
+	path = spider
+	url = https://github.com/booox/mt-spider.git
